@@ -1,7 +1,7 @@
 # nicholassynovic.github.io
 My personal landing page.
 
-# Acknowledgments
+## Acknowledgments
 
 -   Thank you to user UIdeck at OnePageLove for designing the MeetMeLite template used for this website.
 
